@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Medicare Doctor</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_to_see_your_appointments">Login to see your appointments</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="reset_password">Reset password</string>
+    <string name="enter_your_email_address_we_will_send_nyou_email_to_reset_your_password">Enter your Email address we will send \nyou email to reset your password</string>
+    <string name="forget_password_">Forget Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

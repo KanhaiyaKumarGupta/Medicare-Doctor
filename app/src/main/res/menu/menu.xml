@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/appointmentFragment"
+        android:icon="@drawable/appointment"
+        android:title="Appointment" />
+    <item
+        android:id="@+id/slotFragment"
+        android:icon="@drawable/time"
+        android:title="Slots" />
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/person"
+        android:title="Profile" />
+</menu>
